@@ -104,8 +104,10 @@ font-display: bold;}
     padding: 20px;
     background-color: rgb(233,63,51);
     color: honeydew;
-    margin: 20px;
-   
-    
+    margin: 20px;}
 
+    .paragraph { background-color: purple;
+    display: inline-block;
+padding: 22px 10px;
+margin:20px;
 }
